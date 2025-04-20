@@ -30,13 +30,16 @@
 
 
 ---
-wahda aadia**IV - Try It Yourself! 🎬**
+**IV - Try It Yourself! 🎬**
+
 Want to test the project? Upload one of these sample videos in Google Colab and watch the detection in action:
 🎥 Sample Videos (Right-click to save/download):
 
 
+
 ---
 **V - Results 📸**
+
 Here are some example results from the system in action:
 📷 Face detected with movement — screenshot sent via email:
 📷 Movement only detected:
@@ -44,6 +47,18 @@ Here are some example results from the system in action:
 
 
 ---
-**🔗 Connect with me:**
+<div align="center">
+<b> 🔗 Connect with me: </b>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-mabrouk-b465b9314)
+<div align="center">
+  <div align="center">
+    <a href="https://www.linkedin.com/in/ahmed-mabrouk-b465b9314" target="_blank">
+      <img
+        src="https://media.roboflow.com/notebooks/template/icons/purple/linkedin.png?ik-sdk-version=javascript-1.4.3&updatedAt=1672949633691"
+        width="30"
+        alt="LinkedIn"
+      />
+    </a>
+  </div>
+</div>
