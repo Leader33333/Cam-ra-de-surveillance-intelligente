@@ -35,8 +35,11 @@
 Want to test the project? Upload one of these sample videos in Google Colab and watch the detection in action:
 🎥 Sample Videos (Right-click to save/download):
 
-[Video hihi](asstes/hihi.mp4)
-[Time In Zone Workflow Example](https://github.com/user-attachments/assets/743233d9-3460-442d-83f8-20e29e76b346)
+<a href="https://github.com/Leader33333/Cam-ra-de-surveillance-intelligente/blob/main/asstes/hihi.mp4" target="_blank">
+  <img src="[https://raw.githubusercontent.com/your-username/your-repo-name/main/assets/demo-thumbnail.png](https://github.com/Leader33333/Cam-ra-de-surveillance-intelligente/blob/main/asstes/81b6af6ff08de00e.png)" 
+       alt="Watch Demo" 
+       width="500" />
+</a>
 
 ---
 **V - Results 📸**
