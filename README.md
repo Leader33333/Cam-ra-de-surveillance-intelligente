@@ -35,7 +35,8 @@
 Want to test the project? Upload one of these sample videos in Google Colab and watch the detection in action:
 🎥 Sample Videos (Right-click to save/download):
 
-![Video hihi](asstes/hihi.mp4)
+[Video hihi](asstes/hihi.mp4)
+[Time In Zone Workflow Example](https://github.com/user-attachments/assets/743233d9-3460-442d-83f8-20e29e76b346)
 
 ---
 **V - Results 📸**
