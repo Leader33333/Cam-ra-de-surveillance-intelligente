@@ -35,11 +35,8 @@
 Want to test the project? Upload one of these sample videos in Google Colab and watch the detection in action:
 🎥 Sample Videos (Right-click to save/download):
 
-<a href="https://github.com/Leader33333/Cam-ra-de-surveillance-intelligente/raw/main/asstes/hihi.mp4" target="_blank">
-  <img src="https://raw.githubusercontent.com/Leader33333/Cam-ra-de-surveillance-intelligente/main/asstes/81b6af6ff08de00e.png" 
-       alt="Watch Demo" 
-       width="500" />
-</a>
+https://github.com/user-attachments/assets/a29e53bb-584b-4196-9ee3-05bbd0a928df
+[Video File.mp4](https://github.com/user-attachments/assets/a29e53bb-584b-4196-9ee3-05bbd0a928df)
 
 
 ---
